@@ -1,6 +1,8 @@
 # Computer-Vision-Cat-Dog-Classification
 Create an algorithm to distinguish dogs from cats
 
+Dataset can be downloaded from here: https://www.kaggle.com/competitions/dogs-vs-cats/data
+
 Below are samples from training dataset
 
 ![image](https://user-images.githubusercontent.com/98190799/200108413-6bb1c239-1417-47ac-8eca-55c6fa03caf9.png)
